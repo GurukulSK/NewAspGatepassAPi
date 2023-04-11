@@ -10337,11 +10337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Student_Registration\\Student_Registration\\Student_Registration.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\NewAspGatepassAPi\\Student_Registration\\Student_Registration.csproj",
       "projectName": "Student_Registration",
-      "projectPath": "C:\\xampp\\htdocs\\Student_Registration\\Student_Registration\\Student_Registration.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\NewAspGatepassAPi\\Student_Registration\\Student_Registration.csproj",
       "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Student_Registration\\Student_Registration\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\NewAspGatepassAPi\\Student_Registration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config"

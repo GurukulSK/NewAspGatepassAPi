@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xw0cqxzCtEdZ0wLdf9GriuGEMVxZgbvH5FtZ4dJLfSVsxWf/sI3jMWlBfFIzl0v01vNrCgcsymVqOvK6GClq7A==",
+  "dgSpecHash": "EA1LlEx4lG+4UC+r5u6A7wC+yke7uhZyAzTqnoZB6Tif7utREPyuxxjFGoHtn5Z/6d1dgHYQKGFrYj2SRv1eLQ==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\Student_Registration\\Student_Registration\\Student_Registration.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\NewAspGatepassAPi\\Student_Registration\\Student_Registration.csproj",
   "expectedPackageFiles": [
     "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
